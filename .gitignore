@@ -1,0 +1,6 @@
+nsl-kdd
+*.pkl
+*.csv
+*.pcap
+.idea
+.venv
